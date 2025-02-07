@@ -15,7 +15,7 @@ This Google Apps Script allows you to log form submission data directly to a Goo
 1. **Create a New Google Sheet**: Go to [Google Sheets](https://sheets.google.com) and create a new spreadsheet.
 2. **Name Your Sheet**: Name your sheet, and ensure you have a sheet named `Sheet1` or update the script to match the name of your sheet.
 3. **Set Up Headers**: In the first row of your sheet, add headers for the data you want to log. For example:
-   - `Timestamp`
+   - [`Timestamp`](get-timestamp.js)
    - `Name`
    - `Email`
    - `Message`
