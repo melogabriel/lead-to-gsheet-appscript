@@ -1,3 +1,5 @@
+[![Deploy GitHub Pages](https://github.com/melogabriel/lead-to-gsheet-appscript/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/lead-to-gsheet-appscript/actions/workflows/jekyll-gh-pages.yml)
+
 # Google Sheets Data Logger for Google Tag Manager
 
 This Google Apps Script allows you to log form submission data directly to a Google Sheet using Google Tag Manager. The script listens for `GET` or `POST` requests, processes the data, and writes it to the specified Google Sheet.
