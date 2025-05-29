@@ -1,0 +1,8 @@
+title: Lead to Google Sheet Appscript
+remote_theme: jekyll/minima@8106bd4
+
+plugins:
+  - jekyll-seo-tag
+minima:
+  skin: auto
+  hide_site_feed_link: true
