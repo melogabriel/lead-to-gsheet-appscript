@@ -1,6 +1,6 @@
 // Usage
 // 1. Enter sheet name where data is to be written below
-// 1. Enter sheet name and key where data is to be written below
+// 1. Enter key where data is to be written below
 var SHEET_NAME = 'Sheet1';
 var SHEET_KEY = 'your-sheet-key';
 
